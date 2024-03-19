@@ -1,0 +1,11 @@
+.template {
+  width: 512px;
+  height: 768px;
+  background-color: rgb(246, 244, 244);
+  border-radius: 15px;
+  border: 0.3px gray solid;
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.04);
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+}

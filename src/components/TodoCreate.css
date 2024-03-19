@@ -1,0 +1,14 @@
+#todoCreate {
+  display: flex;
+  justify-content: center;
+}
+#todoInput {
+  font-size: 28px;
+  margin-bottom: 36px;
+  margin-right: 5px;
+}
+#addbtn {
+  font-size: 30px;
+  margin-bottom: 36px;
+  color: rgb(22, 157, 112);
+}

@@ -1,0 +1,6 @@
+.todoList {
+  flex: 1;
+  padding: 20px 32px;
+  padding-bottom: 48px;
+  overflow-y: auto; /*요소가 넘칠때 스크롤생김 */
+}

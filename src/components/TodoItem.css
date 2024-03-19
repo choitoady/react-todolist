@@ -1,0 +1,17 @@
+.todoItem {
+  display: flex;
+  align-items: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+#checkTodo {
+  width: 32px;
+  height: 32px;
+  margin-right: 20px;
+}
+
+#text {
+  flex: 1;
+  font-size: 21px;
+  color: #495057;
+}
